@@ -7,7 +7,7 @@ Aplicação consiste em criar um banco de dados em monodb, uma api node-rest-ful
 
 Essa aplicação possui um banco de dados em nuvem, isso foi possível com conhecimentos além do que o curso oferecia, esse conhecimento foi de ter habilidade com o Mongo Atlas.
 
-O Mongo Atlas, permite que posso ser criado apenas um banco de dados de forma gratuida e sem a necessidade de
+O MongoDb Atlas, permite que possa criar apenas um banco de dados de forma gratuida e sem a necessidade de
 colocar cartão. 
 
 <a href="https://cloud.mongodb.com/">Link para mais informações<a/>
