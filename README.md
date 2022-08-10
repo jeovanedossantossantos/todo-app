@@ -1,7 +1,7 @@
 # Projeto todo-app
 
 Projeto criado no modulo de fullstack do curos de react e redux.
-Aplicação consiste em criar um banco de dados em monodb, uma api node-rest-ful e um fontend em React. 
+Aplicação consiste em criar um banco de dados em mongodb, uma api node-rest-ful e um fontend em React. 
 
 # Banco de dados
 
