@@ -44,7 +44,7 @@ o app não funconara.
 
 # Frontend todo-app
 
-Aplicação feita em ReactJs, como o uso do boostrap.
+Aplicação feita em ReactJs, com o uso do boostrap e o redux.
 Uma aplicação basica apeans para praticar o conceito e as praticas de conexões com uma api.
 
 <a href="https://todo-app-frontend-react.vercel.app/#/todos">Experimente a aplicação</a>
