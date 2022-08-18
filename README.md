@@ -38,7 +38,7 @@ Configução essa que deve ser criada na raiz do projeto com o seguinte nome ver
       
 
 Atenção: quando for fazer o deploy, verfique a versão do nodeJS usada em seu projeto, isso pode ser vista no package.json de sua aplicação ou
-no seu terminar digitando npm --version ou yarn -v.
+no seu terminar digitando node --version ou node -v.
 Isso é importande saber pois na configuração do deploy no vercel é necessario escolher a versão do node usada, caso seja uma versão diferente 
 o app não funconara.
 
